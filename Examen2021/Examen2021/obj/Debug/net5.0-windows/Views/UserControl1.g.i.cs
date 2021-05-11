@@ -53,7 +53,7 @@ namespace Examen2021.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Examen2021;V1.0.0.0;component/views/usercontrol1.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Examen2021;component/views/usercontrol1.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\UserControl1.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

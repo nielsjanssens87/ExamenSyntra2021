@@ -18,6 +18,13 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="10"/>
         </Grid.RowDefinitions>
-
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <Button Content="contactpersonen" Name="btnContactPersonen"/>
+            <Button Content="BMI berekenen" Name="btnBmiBerekenen"/>
+        </StackPanel>
+        <ContentControl
+            Grid.Row="1"
+            Grid.Column="2" 
+            Content="{Binding SelectedViewModel}" />
     </Grid>
 </Window>
