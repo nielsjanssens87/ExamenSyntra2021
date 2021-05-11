@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace Examen2021.Views
 {
     /// <summary>
-    /// Interaction logic for UserControl1.xaml
+    /// Interaction logic for BmiBerekenView.xaml
     /// </summary>
-    public partial class UserControl1 : UserControl
+    public partial class BmiBerekenView : UserControl
     {
-        public UserControl1()
+        public BmiBerekenView()
         {
             InitializeComponent();
         }

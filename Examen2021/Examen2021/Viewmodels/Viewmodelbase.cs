@@ -9,6 +9,18 @@ namespace Examen2021.Viewmodels
 {
     class Viewmodelbase : INotifyPropertyChanged
     {
-        public event PropertyChangedEventHandler PropertyChanged;
+        event PropertyChangedEventHandler INotifyPropertyChanged.PropertyChanged
+        {
+            add
+            {
+                throw new NotImplementedException();
+            }
+
+            remove
+            {
+                throw new NotImplementedException();
+            }
+        }
+
     }
 }

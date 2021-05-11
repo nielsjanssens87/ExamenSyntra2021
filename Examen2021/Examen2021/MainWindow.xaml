@@ -19,8 +19,8 @@
             <RowDefinition Height="10"/>
         </Grid.RowDefinitions>
         <StackPanel Grid.Row="1" Grid.Column="1">
-            <Button Content="contactpersonen" Name="btnContactPersonen"/>
-            <Button Content="BMI berekenen" Name="btnBmiBerekenen"/>
+            <Button Content="contactpersonen" Name="btnContactPersonenView"/>
+            <Button Content="BMI berekenen" Name="btnBmiBerekenenView"/>
         </StackPanel>
         <ContentControl
             Grid.Row="1"
