@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Examen2021.Viewmodels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,9 +21,11 @@ namespace Examen2021
     /// </summary>
     public partial class MainWindow : Window
     {
+        MainWindowVM _mainWindowVM = new MainWindowVM();
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = _mainWindowVM;
         }
     }
 }

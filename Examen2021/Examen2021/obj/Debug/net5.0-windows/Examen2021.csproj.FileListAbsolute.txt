@@ -1,0 +1,7 @@
+C:\Users\janssen\source\repos\ExamenSyntra2021\Examen2021\Examen2021\obj\Debug\net5.0-windows\Examen2021.csprojAssemblyReference.cache
+C:\Users\janssen\source\repos\ExamenSyntra2021\Examen2021\Examen2021\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\janssen\source\repos\ExamenSyntra2021\Examen2021\Examen2021\obj\Debug\net5.0-windows\Views\UserControl1.g.cs
+C:\Users\janssen\source\repos\ExamenSyntra2021\Examen2021\Examen2021\obj\Debug\net5.0-windows\Views\UserControl2.g.cs
+C:\Users\janssen\source\repos\ExamenSyntra2021\Examen2021\Examen2021\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\janssen\source\repos\ExamenSyntra2021\Examen2021\Examen2021\obj\Debug\net5.0-windows\Examen2021_MarkupCompile.cache
+C:\Users\janssen\source\repos\ExamenSyntra2021\Examen2021\Examen2021\obj\Debug\net5.0-windows\Examen2021_MarkupCompile.lref
