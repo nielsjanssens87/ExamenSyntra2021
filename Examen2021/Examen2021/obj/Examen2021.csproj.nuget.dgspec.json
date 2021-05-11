@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\janssen\\source\\repos\\temp\\Examen2021\\Examen2021\\Examen2021.csproj": {}
+    "C:\\Users\\janssen\\source\\repos\\ExamenSyntra2021\\Examen2021\\Examen2021\\Examen2021.csproj": {}
   },
   "projects": {
-    "C:\\Users\\janssen\\source\\repos\\temp\\Examen2021\\Examen2021\\Examen2021.csproj": {
+    "C:\\Users\\janssen\\source\\repos\\ExamenSyntra2021\\Examen2021\\Examen2021\\Examen2021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janssen\\source\\repos\\temp\\Examen2021\\Examen2021\\Examen2021.csproj",
+        "projectUniqueName": "C:\\Users\\janssen\\source\\repos\\ExamenSyntra2021\\Examen2021\\Examen2021\\Examen2021.csproj",
         "projectName": "Examen2021",
-        "projectPath": "C:\\Users\\janssen\\source\\repos\\temp\\Examen2021\\Examen2021\\Examen2021.csproj",
+        "projectPath": "C:\\Users\\janssen\\source\\repos\\ExamenSyntra2021\\Examen2021\\Examen2021\\Examen2021.csproj",
         "packagesPath": "C:\\Users\\janssen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janssen\\source\\repos\\temp\\Examen2021\\Examen2021\\obj\\",
+        "outputPath": "C:\\Users\\janssen\\source\\repos\\ExamenSyntra2021\\Examen2021\\Examen2021\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\janssen\\AppData\\Roaming\\NuGet\\NuGet.Config",

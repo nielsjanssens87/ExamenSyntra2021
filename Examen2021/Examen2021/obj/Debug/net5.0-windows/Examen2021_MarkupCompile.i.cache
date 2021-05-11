@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\janssen\source\repos\temp\Examen2021\Examen2021\obj\Debug\net5.0-windows\
+C:\Users\janssen\source\repos\ExamenSyntra2021\Examen2021\Examen2021\obj\Debug\net5.0-windows\
 Examen2021
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\janssen\source\repos\temp\Examen2021\Examen2021\App.xaml
-11407045341
+C:\Users\janssen\source\repos\ExamenSyntra2021\Examen2021\Examen2021\App.xaml
+3-1995369875
 
-5-1029475275
+9-1172075975
 193-1891726104
-MainWindow.xaml;
+MainWindow.xaml;Views\UserControl1.xaml;Views\UserControl2.xaml;
 
 False
 
