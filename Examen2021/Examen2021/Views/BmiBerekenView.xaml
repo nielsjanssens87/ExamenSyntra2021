@@ -15,11 +15,13 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
         <StackPanel Grid.Column="0" Grid.Row="0">
-            <Label Content="Gewicht in Kg"/>
+            <Label Content="Naam:"/>
+            <Label Content="x"/>
+            <Label Content="Gewicht in Kg:"/>
             <TextBox x:Name="txtGewicht"/>
-            <Label Content="Lengte in m"/>
+            <Label Content="Lengte in m:"/>
             <TextBox x:Name="txtLengte"/>
-            <Button x:Name="btnBerekenBMI" Content="Bereken BMI"/>
+            <Button x:Name="btnBerekenBMI" Content="Bereken BMI" Margin="10"/>
         </StackPanel>
     </Grid>
 </UserControl>
